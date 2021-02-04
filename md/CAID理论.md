@@ -2,10 +2,12 @@
  * @Author: tangdaoyong
  * @Date: 2021-02-01 14:59:04
  * @LastEditors: tangdaoyong
- * @LastEditTime: 2021-02-01 15:00:08
+ * @LastEditTime: 2021-02-04 10:06:05
  * @Description: CAID理论
 -->
 # CAID理论
+
+`CAID理论`，构建的就是强一致性数据库系统。
 
 `CAID`是事务的基础理论，所有事务都必须满足以下特性:
 
